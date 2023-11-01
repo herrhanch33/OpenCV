@@ -1,0 +1,3 @@
+﻿  Test.cpp
+C:\Users\hansy\source\repos\OpenCV\OpenCV\Test.cpp(15,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  OpenCV.vcxproj -> C:\Users\hansy\source\repos\OpenCV\x64\Debug\OpenCV.exe
