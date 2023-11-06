@@ -1,5 +1,5 @@
 # OpenCV
-OpenCV Projects
+OpenCV Projects  
 This Git Folder contains OpenCV projects in C++.
 There are numerous concepts such as Image transformation, Histogram Equalization, Median Filter,
 YOLO, Canny Edge Operator, Background Removal, etc.
